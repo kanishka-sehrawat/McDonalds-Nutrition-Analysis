@@ -33,3 +33,17 @@ The project combines SQL-based exploratory analysis with an interactive Power BI
 ## Dashboard Preview
 
 ![McDonald's Dashboard](https://github.com/kanishka-sehrawat/McDonalds-Nutrition-Analysis/blob/main/mcd_dashboard_overview.png?raw=true)
+
+### Insights
+
+• Burgers had the highest average calorie content.
+
+• Beverages contributed the highest sugar levels.
+
+• Several menu items exceeded 40% of recommended daily sodium intake.
+
+• Chicken-based products offered the highest protein content.
+
+• Significant nutritional differences existed across menu categories.
+
+
