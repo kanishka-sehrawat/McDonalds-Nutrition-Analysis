@@ -12,3 +12,22 @@ The goal was to identify:
 - Healthiest and least healthy menu choices
 
 The project combines SQL-based exploratory analysis with an interactive Power BI dashboard.
+
+### Dataset Features
+
+- Menu Category
+- Menu Items
+- Calories
+- Protein
+- Fat
+- Sugar
+- Sodium
+- Cholesterol
+
+## Tools Used
+
+- SQL
+- Power BI
+- Excel
+
+## Dashboard Preview
