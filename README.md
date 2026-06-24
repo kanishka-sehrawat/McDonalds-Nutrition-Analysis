@@ -31,4 +31,4 @@ The project combines SQL-based exploratory analysis with an interactive Power BI
 - Excel
 
 ## Dashboard Preview
-![mcd dashboard overview](https://github.com/kanishkasehrawat/McDonaldsNutritionAnalysis/blob/main/mcd_dashboard_overview.png)
+![image alt](https://github.com/kanishkasehrawat/McDonaldsNutritionAnalysis/blob/99036fa05222c3768845bd50e4e749040d844bdd/mcd_dashboard_overview.png)
